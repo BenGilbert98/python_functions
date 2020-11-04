@@ -31,7 +31,7 @@ subtract(2, 5)
 
 # create a function that multiplies two args
 def multiply(num1, num2):
-    print("The answer is", (num1 * num2))
+    return num1 * num2
 
 
 multiply(2, 5)
@@ -39,7 +39,7 @@ multiply(2, 5)
 
 # create a function that divides two args
 def division(num1, num2):
-    print("The answer is", (num1 / num2))
+    return num1 / num2
 
 
 division(2, 5)
@@ -47,7 +47,7 @@ division(2, 5)
 
 # create a function that calculates % of two args
 def modulus(num1, num2):
-    print("The answer is", (num1 % num2))
+    return num1 % num2
 
 
 modulus(5, 2)
