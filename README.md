@@ -1,6 +1,7 @@
 # Python Functions
 - functions are used to reduce / eliminate DRY (Don't Repeat Yourself)
 ## What Are Functions and Why Are They Used?
+- functions are used to bundle sets of instructions that are used multiple times.
 ## How To Create a Function
 - The following syntax is used to create a function```def <function_name>(arg1,arg2... argN):``` 
 - Examples: 
