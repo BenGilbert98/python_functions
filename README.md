@@ -95,3 +95,4 @@ here the modulus value of num1 and num2 are returned so it can be printed
  - Pseudo coding will help code to be understood (1 line explanation)
  - HINTs: Create hints in simple bullet points or pointers
  - Comments regarding your function results
+ - KISS (Keep It Simple Stupid)
