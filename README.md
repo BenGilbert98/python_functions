@@ -55,7 +55,7 @@ def addition(num1, num2):
 x = addition(5, 2)
 print(f"The answer is {x}")
 ```
-- Using return statements:
+## Using return statements:
 ```
 # create a function that multiplies two args
 def multiply(num1, num2):
