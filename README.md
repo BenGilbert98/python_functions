@@ -80,6 +80,15 @@ def modulus(num1, num2):
 
 print(modulus(5, 2))
 ```
+## Storing Inside Variable
+```
+def addition(num1, num2):
+    return num1 + num2
+
+
+x = addition(5, 2)
+print(f"The answer is {x}")
+```
 ## Best Practices
 - Return statements are used to return the result of any function \
 Examples :

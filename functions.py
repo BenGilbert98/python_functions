@@ -55,8 +55,7 @@ modulus(5, 2)
 
 # create a function that adds two args using return
 def addition(num1, num2):
-    answer = num1 + num2
-    return answer
+    return num1 + num2
 
 
 x = addition(5, 2)
