@@ -61,3 +61,6 @@ def addition(num1, num2):
 
 x = addition(5, 2)
 print(f"The answer is {x}")
+
+
+# we use return statements which is key to python functions as they return the result of any function

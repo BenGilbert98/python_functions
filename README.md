@@ -55,4 +55,43 @@ def addition(num1, num2):
 x = addition(5, 2)
 print(f"The answer is {x}")
 ```
+- Using return statements:
+```
+# create a function that multiplies two args
+def multiply(num1, num2):
+    return num1 * num2
+
+
+print(multiply(2, 5))
+
+
+# create a function that divides two args
+def division(num1, num2):
+    return num1 / num2
+
+
+print(division(2, 5))
+
+
+# create a function that calculates % of two args
+def modulus(num1, num2):
+    return num1 % num2
+
+
+print(modulus(5, 2))
+```
 ## Best Practices
+- Return statements are used to return the result of any function \
+Examples :
+```
+def modulus(num1, num2):
+    return num1 % num2
+
+print(modulus(num1, num2))
+```
+here the modulus value of num1 and num2 are returned so it can be printed
+ - Don't have DRY code
+ - Have small blocks of code in any function that does one job
+ - Pseudo coding will help code to be understood (1 line explanation)
+ - HINTs: Create hints in simple bullet points or pointers
+ - Comments regarding your function results
